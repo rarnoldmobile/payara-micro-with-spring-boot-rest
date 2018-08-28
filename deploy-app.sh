@@ -1,0 +1,1 @@
+asadmin deploy target/payara-micro-with-spring-boot-rest.war
